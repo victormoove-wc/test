@@ -1,0 +1,25 @@
+{
+    "games": [
+      { "id": 1, "class": "thumb_small", "name": "Hotline", "src": "http://localhost:3001/img/game_thumb1.png" },
+      { "id": 2, "class": "thumb_small", "name": "Sea of Tranquility", "src": "http://localhost:3001/img/game_thumb2.png" },
+      { "id": 3, "class": "thumb_small", "name": "Fruit Spin", "src": "http://localhost:3001/img/game_thumb3.png" },
+      { "id": 4, "class": "thumb_small", "name": "Smokin' Hot Gems", "src": "http://localhost:3001/img/game_thumb4.png" },
+      { "id": 5, "class": "thumb_small", "name": "Neon Jungle", "src": "http://localhost:3001/img/game_thumb5.png" },
+      { "id": 6, "class": "thumb_small", "name": "Aloha! Cluster Pays", "src": "http://localhost:3001/img/game_thumb6.png" },
+      { "id": 7, "class": "thumb_small", "name": "Jack Hammer", "src": "http://localhost:3001/img/game_thumb7.png" },
+      { "id": 8, "class": "thumb_small", "name": "Gonzo's Quest", "src": "http://localhost:3001/img/game_thumb8.png" },
+      { "id": 9, "class": "thumb_big", "name": "3Hit Pay", "src": "http://localhost:3001/img/game_thumb9.png" },
+      { "id": 10, "class": "thumb_small", "name": "Spinata Grande", "src": "http://localhost:3001/img/game_thumb10.png" },
+      { "id": 11, "class": "thumb_small", "name": "Hotline", "src": "http://localhost:3001/img/game_thumb1.png" },
+      { "id": 12, "class": "thumb_small", "name": "Sugar Smash", "src": "http://localhost:3001/img/game_thumb11.png" },
+      { "id": 13, "class": "thumb_small", "name": "Day of the Dead", "src": "http://localhost:3001/img/game_thumb3.png" },
+      { "id": 14, "class": "thumb_small", "name": "Dr. Jekyu Mr.Hyde", "src": "http://localhost:3001/img/game_thumb15.png" },
+      { "id": 15, "class": "thumb_big", "name": "Jumanji video slot", "src": "http://localhost:3001/img/game_thumb13.png" },
+      { "id": 16, "class": "thumb_small", "name": "Dr. Jekyu Mr.Hyde", "src": "http://localhost:3001/img/game_thumb15.png" },
+      { "id": 17, "class": "thumb_small", "name": "Day of the Dead", "src": "http://localhost:3001/img/game_thumb12.png" },
+      { "id": 18, "class": "thumb_small", "name": "Day of the Dead", "src": "http://localhost:3001/img/game_thumb12.png" },
+      { "id": 19, "class": "thumb_small", "name": "Dr. Jekyu Mr. Hyde", "src": "http://localhost:3001/img/game_thumb12.png" },
+      { "id": 20, "class": "thumb_small", "name": "Fa-Fa Twins", "src": "http://localhost:3001/img/game_thumb14.png" },
+      { "id": 21, "class": "thumb_small", "name": "Spinata Grande", "src": "http://localhost:3001/img/game_thumb10.png" }
+    ]
+}
